@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<articulos>
+    <articulo referencia='3000001A'>
+        <und_dispo>50</und_dispo>
+        <und_vendidas>70</und_vendidas>
+    </articulo>
+</articulos>
