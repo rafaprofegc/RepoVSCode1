@@ -1,1 +1,6 @@
-Aqui estamos!
+<?xml version="1.0" encoding="UTF-8"?>
+<mensaje>
+  <de>rafa</de>
+  <para>el resto</para>
+  <texto>Aquí estamos!</texto>
+</mensaje>
