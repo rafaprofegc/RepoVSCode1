@@ -2,4 +2,5 @@
 <pedido numero="1">
   <cliente>Pepe Pérez</cliente>
   <fecha>2024-05-11</fecha>
+  <medio_entrega>UPS</medio_entrega>
 </pedido>
