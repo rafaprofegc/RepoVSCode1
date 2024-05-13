@@ -2,4 +2,5 @@
 <ordenador>
   <marca>ASUS</marca>
   <modelo>P81H</modelo>
+  <descripcion>descripción del ordenador</descripcion>
 </ordenador>
