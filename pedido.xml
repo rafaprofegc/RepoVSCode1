@@ -3,6 +3,4 @@
   <cliente>Pepe Pérez</cliente>
   <fecha>2024-05-11</fecha>
   <medio_entrega>UPS</medio_entrega>
-  <direccion_envio>Mi casa</direccion_envio>
-  <plazo_entrega>10 días</plazo_entrega>
 </pedido>
