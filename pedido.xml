@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <pedido numero="1">
   <cliente nif="30000001A">Pepe Pérez</cliente>
-  <observaciones>Pedido nuevo</observaciones>
+  <observaciones>Cambios del repositorio para descargar con Fetch 1</observaciones>
   <fecha>2024-05-11</fecha>
   <medio_entrega>UPS</medio_entrega>
 </pedido>
